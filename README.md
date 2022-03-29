@@ -37,4 +37,5 @@ The output will consist of a settlement statistic created using these buildings 
 **Average salary for city hall employees**: the average salary of all employees in all city halls
 **Average age of busted in police stations**: average age of all arrested persons in all police stations
 **Number of people in House *house_name***: the number of people in that house, including the owner if any
-**Number of people in Block *block_name***: the umber of people in that block, including the administrator if any 
+**Number of people in Block *block_name***: the number of people in that block, including the administrator if any
+**House and block administrators**: the names of people who are both block and house administrators. If there is no one, the word *Nobody* will be used.
