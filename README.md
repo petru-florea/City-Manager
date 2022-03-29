@@ -3,7 +3,7 @@
 
 ---
 
-<img src="https://webstockreview.net/images/cityscape-clipart-city-boston-15.png" width='550'>
+<img src="https://webstockreview.net/images/cityscape-clipart-city-boston-15.png" width='750'>
 
 
 ### Quick summary
