@@ -30,12 +30,21 @@ The output will consist of a settlement statistic created using these buildings 
   + Capital: CityHall >=3, Hospital >= 2, PoliceStation >= 3, House >= 8, Block >= 4.
   + City: CityHall >=2, Hospital >= 1, PoliceStation >= 2, House >= 4, Block >= 1.
   + Village: Anything but the above conditions.
-**Number of patients in hospitals**: the total number of patients in all hospitals
-**Average salary for doctors**: the average salary of all doctors in all hospitals
-**Average salary for cops**: the average salary of all police officers in all police stations
-**Average salary for mayors**: the average salary of all mayors in all city halls
-**Average salary for city hall employees**: the average salary of all employees in all city halls
-**Average age of busted in police stations**: average age of all arrested persons in all police stations
-**Number of people in House *house_name***: the number of people in that house, including the owner if any
-**Number of people in Block *block_name***: the number of people in that block, including the administrator if any
+
+**Number of patients in hospitals**: the total number of patients in all hospitals.
+
+**Average salary for doctors**: the average salary of all doctors in all hospitals.
+
+**Average salary for cops**: the average salary of all police officers in all police stations.
+
+**Average salary for mayors**: the average salary of all mayors in all city halls.
+
+**Average salary for city hall employees**: the average salary of all employees in all city halls.
+
+**Average age of busted in police stations**: average age of all arrested persons in all police stations.
+
+**Number of people in House *house_name***: the number of people in that house, including the owner if any.
+
+**Number of people in Block *block_name***: the number of people in that block, including the administrator if any.
+
 **House and block administrators**: the names of people who are both block and house administrators. If there is no one, the word *Nobody* will be used.
