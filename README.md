@@ -3,6 +3,9 @@
 
 ---
 
+<img src="https://webstockreview.net/images/cityscape-clipart-city-boston-15.png" width='550'>
+
+
 ### Quick summary
 
 Application that can be used for managing buildings and citizens. You can create a settlement which can be a village, a town or a capital, depending on the number and type of buildings. You can also add/remove buildings or people with different statuses in these buildings.
