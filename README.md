@@ -1,4 +1,4 @@
-# City-Manager
+# City Manager
 ### Revision 1.0
 
 ---
